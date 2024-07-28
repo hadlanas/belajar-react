@@ -1,0 +1,20 @@
+[
+  {
+    "title": "belajar react",
+    "tag": ["react", "belajar"],
+    "date": "2024-09-23",
+    "status": true
+  },
+  {
+    "title": "belajar react lanjutan",
+    "tag": ["react", "frontend"],
+    "date": "2024-09-24",
+    "status": false
+  },
+  {
+    "title": "sudah bisa belajar react",
+    "tag": ["react", "lulus"],
+    "date": "2024-09-25",
+    "status": false
+  }
+]
